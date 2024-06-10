@@ -1,1 +1,1 @@
-var require
+var teste
